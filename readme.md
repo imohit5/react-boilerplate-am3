@@ -1,2 +1,2 @@
- React Utility Application
+ Boiler Plate Application
 --------------------------
